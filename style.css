@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(255, 0, 0); 
+    text-align: center;
+    }
+
+h2 {text-align: center;}
+h1 {line-height: 5;}
+h2 {line-height: 2;}
+p {text-align: center;}
+p {line-height: 1;}
+li {text-align: center;}
+
+body {
+    background-image: linear-gradient(white, grey);min-height: 100vh;}  
+li {font-style: oblique;}
+li {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+h2 {font-family: Arial, Helvetica, sans-serif;}
+p{line-height: 2;}
+
+
+
+
+
+    
+
